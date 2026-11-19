@@ -1,0 +1,20 @@
+# Báo cáo học thuật (theo yêu cầu không push file Word lên Git)
+*.docx
+*.doc
+Bao_cao_Do_an_Khoa_dien_tu.docx
+
+# Python virtual environment & generator scripts
+.venv/
+__pycache__/
+generate_report.py
+
+# File nén dự án ban đầu
+Khoa_dien_tu.zip
+
+# Quartus II temporary build directories & log files
+db/
+incremental_db/
+output_files/
+*.rpt
+*.chg
+*.qws
