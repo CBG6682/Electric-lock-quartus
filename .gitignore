@@ -10,11 +10,3 @@ generate_report.py
 
 # File nén dự án ban đầu
 Khoa_dien_tu.zip
-
-# Quartus II temporary build directories & log files
-db/
-incremental_db/
-output_files/
-*.rpt
-*.chg
-*.qws

@@ -1,0 +1,9 @@
+
+State Machine - |CE118|ctrl_fsm:U_FSM|st
+Name st.DOI st.BAO st.SAI st.MO st.NHAP st.IDLE 
+st.IDLE 0 0 0 0 0 0 
+st.NHAP 0 0 0 0 1 1 
+st.MO 0 0 0 1 0 1 
+st.SAI 0 0 1 0 0 1 
+st.BAO 0 1 0 0 0 1 
+st.DOI 1 0 0 0 0 1 
